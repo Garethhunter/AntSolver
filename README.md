@@ -1,8 +1,7 @@
 AntSolverGUI
 ============
 
-AntSolver is a Windows 64 bit program that solves TSP files. As developed by Gareth Hunter for my dissertation submitted in partial fulfilment of the requirements of Dublin Institute of Technology for the degree of
-M.Sc. in Computing (Advanced Software Engineering) "Ants find the shortest path" 2014
+AntSolver is a Windows 64 bit program that solves TSP files.
 
 Implemented is 6 differnet Ant Colonly Algorithms , and the genetic algorithm in one framework, and displays visual feeback of the inner workings of each algorithm.
 
